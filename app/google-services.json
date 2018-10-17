@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "450660585940",
+    "firebase_url": "https://mistroommanagement.firebaseio.com",
+    "project_id": "mistroommanagement",
+    "storage_bucket": "mistroommanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450660585940:android:fd5ea24038fe7bbf",
+        "android_client_info": {
+          "package_name": "com.example.kanak.mistroommanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450660585940-k3ce2rfq4q4dm9nnen8alb5a9n5v1fpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanak.mistroommanagement",
+            "certificate_hash": "30e1faa7ce649db14c0ee55e7512a3b5b00b18e0"
+          }
+        },
+        {
+          "client_id": "450660585940-njsjpm90p8s6u6q2ij2ok3v91i8vta1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFH43SgMnieG_2fSb2z7gRlRBGF7bAXqw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450660585940-njsjpm90p8s6u6q2ij2ok3v91i8vta1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
